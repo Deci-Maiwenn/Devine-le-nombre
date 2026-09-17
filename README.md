@@ -35,7 +35,15 @@ En réalisant ce projet, j'ai appris à :
 
 ## 🚀 Lancer le projet
 
-1. Télécharger ou cloner le projet
+### 🎮 Jouer en ligne
+
+Le jeu est disponible directement sur GitHub Pages :
+
+[👉 Jouer au jeu](https://deci-maiwenn.github.io/Devine-le-nombre/)
+
+### 💻 Lancer localement
+
+1. Cloner le dépôt
 2. Ouvrir le fichier `index.html` dans un navigateur
 3. Commencer à jouer !
 
