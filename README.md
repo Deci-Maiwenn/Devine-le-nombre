@@ -1,5 +1,7 @@
 # 🎮 Devine le nombre
 
+🎮 [Jouer en ligne](https://deci-maiwenn.github.io/Devine-le-nombre/)
+
 Le principe du jeu est simple : l'ordinateur choisit un nombre au hasard entre 1 et 100 et le joueur doit le deviner.
 
 ## ✨ Fonctionnalités
@@ -39,4 +41,4 @@ En réalisant ce projet, j'ai appris à :
 
 ## 📸 Aperçu
 
-A venir.
+[Aperçu du jeu](image.png)
